@@ -27,12 +27,12 @@
 				<RealTimeSystemDestination>c:\ni-rt\NIVeriStand\Custom Devices\CANOpen Addon\CANOpen Addon Engine.llb\CANOpen Addon RT Driver VI.vi</RealTimeSystemDestination>
 			</Source>
 			<Source>
-				<SupportedTarget>VxWorks</SupportedTarget>
+				<SupportedTarget>Linux_x64</SupportedTarget>
 				<Source>
 					<Type>To Common Doc Dir</Type>
-					<Path>Custom Devices\CANOpen Addon\c\CANOpen Addon Engine VxWorks.llb\CANOpen Addon RT Driver VI.vi</Path>
+					<Path>Custom Devices\CANOpen Addon\Linux_x64\CANOpen Addon Engine Linux x64.llb\CANOpen Addon RT Driver VI.vi</Path>
 				</Source>
-				<RealTimeSystemDestination>c:\ni-rt\NIVeriStand\Custom Devices\CANOpen Addon\CANOpen Addon Engine VxWorks.llb\CANOpen Addon RT Driver VI.vi</RealTimeSystemDestination>
+				<RealTimeSystemDestination>c:\ni-rt\NIVeriStand\Custom Devices\CANOpen Addon\CANOpen Addon Engine Linux x64.llb\CANOpen Addon RT Driver VI.vi</RealTimeSystemDestination>
 			</Source>		
 		</SourceDistribution>
 	</CustomDeviceVI>
