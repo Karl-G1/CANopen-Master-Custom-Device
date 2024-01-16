@@ -4,12 +4,15 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="CANOpen Addon GUID Lookup Global.vi" Type="VI" URL="../CANOpen Addon GUID Lookup Global.vi"/>
+	<Item Name="CANopen Byte Order.ctl" Type="VI" URL="../CANopen Byte Order.ctl"/>
 	<Item Name="CANOpen Interface Name.ctl" Type="VI" URL="../CANOpen Interface Name.ctl"/>
 	<Item Name="CANOpen_Bus Settings.ctl" Type="VI" URL="../CANOpen_Bus Settings.ctl"/>
 	<Item Name="CANOpen_Emergency Settings.ctl" Type="VI" URL="../CANOpen_Emergency Settings.ctl"/>
 	<Item Name="CANOpen_Get Node ID from Name.vi" Type="VI" URL="../CANOpen_Get Node ID from Name.vi"/>
 	<Item Name="CANOpen_Get PDO Channel from Name.vi" Type="VI" URL="../CANOpen_Get PDO Channel from Name.vi"/>
 	<Item Name="CANOpen_Heartbeat and Node Guarding Settings.ctl" Type="VI" URL="../CANOpen_Heartbeat and Node Guarding Settings.ctl"/>
+	<Item Name="CanOpen_NMT_Config.ctl" Type="VI" URL="../CanOpen_NMT_Config.ctl"/>
+	<Item Name="CanOpen_NMT_Static detect.ctl" Type="VI" URL="../CanOpen_NMT_Static detect.ctl"/>
 	<Item Name="CANOpen_PDO Data Type in queue.ctl" Type="VI" URL="../CANOpen_PDO Data Type in queue.ctl"/>
 	<Item Name="CANOpen_PDO Data Type.ctl" Type="VI" URL="../CANOpen_PDO Data Type.ctl"/>
 	<Item Name="CANOpen_PDO Parameter Settings.ctl" Type="VI" URL="../CANOpen_PDO Parameter Settings.ctl"/>

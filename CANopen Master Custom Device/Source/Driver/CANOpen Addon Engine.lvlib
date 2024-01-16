@@ -33,17 +33,16 @@
 				<Item Name="CANOpen_Main_Set Node State.vi" Type="VI" URL="../Async VIs/CANOpen_Main/SubVIs/CANOpen_Main_Set Node State.vi"/>
 				<Item Name="CANOpen_Main_Start xPDOs.vi" Type="VI" URL="../Async VIs/CANOpen_Main/SubVIs/CANOpen_Main_Start xPDOs.vi"/>
 				<Item Name="CANOpen_Main_Write RPDOs.vi" Type="VI" URL="../Async VIs/CANOpen_Main/SubVIs/CANOpen_Main_Write RPDOs.vi"/>
-				<Item Name="CanOpen_NMT_Config.ctl" Type="VI" URL="../Async VIs/CANOpen_Main/SubVIs/CanOpen_NMT_Config.ctl"/>
 				<Item Name="CanOpen_NMT_HWIn_ChannelPairs.ctl" Type="VI" URL="../Async VIs/CANOpen_Main/SubVIs/CanOpen_NMT_HWIn_ChannelPairs.ctl"/>
 				<Item Name="CanOpen_NMT_HWOut_ChannelPairs.ctl" Type="VI" URL="../Async VIs/CANOpen_Main/SubVIs/CanOpen_NMT_HWOut_ChannelPairs.ctl"/>
 				<Item Name="CANOpen_NMT_Main.vi" Type="VI" URL="../Async VIs/CANOpen_Main/SubVIs/CANOpen_NMT_Main.vi"/>
 				<Item Name="CANOpen_NMT_Read HW Inputs.vi" Type="VI" URL="../Async VIs/CANOpen_Main/SubVIs/CANOpen_NMT_Read HW Inputs.vi"/>
 				<Item Name="CANOpen_NMT_Setup HB.vi" Type="VI" URL="../Async VIs/CANOpen_Main/SubVIs/CANOpen_NMT_Setup HB.vi"/>
 				<Item Name="CANOpen_NMT_Setup NG.vi" Type="VI" URL="../Async VIs/CANOpen_Main/SubVIs/CANOpen_NMT_Setup NG.vi"/>
-				<Item Name="CanOpen_NMT_Static detect.ctl" Type="VI" URL="../Async VIs/CANOpen_Main/SubVIs/CanOpen_NMT_Static detect.ctl"/>
 				<Item Name="CANOpen_NMT_Write HW Outputs.vi" Type="VI" URL="../Async VIs/CANOpen_Main/SubVIs/CANOpen_NMT_Write HW Outputs.vi"/>
 				<Item Name="CanOpen_NodeGuarding Refs.ctl" Type="VI" URL="../Async VIs/CANOpen_Main/SubVIs/CanOpen_NodeGuarding Refs.ctl"/>
 				<Item Name="CanOpen_RPDO Refs.ctl" Type="VI" URL="../Async VIs/CANOpen_Main/SubVIs/CanOpen_RPDO Refs.ctl"/>
+				<Item Name="CANOpen_Scan Device List.vi" Type="VI" URL="../SubVIS/CANOpen_Scan Device List.vi"/>
 				<Item Name="CanOpen_SDO Dynamic queue.ctl" Type="VI" URL="../Async VIs/CANOpen_Main/SubVIs/CanOpen_SDO Dynamic queue.ctl"/>
 				<Item Name="CanOpen_SDO queue ref.ctl" Type="VI" URL="../Async VIs/CANOpen_Main/SubVIs/CanOpen_SDO queue ref.ctl"/>
 				<Item Name="CANOpen_SDO Report Error to Console.vi" Type="VI" URL="../Async VIs/CANOpen_Main/SubVIs/CANOpen_SDO Report Error to Console.vi"/>

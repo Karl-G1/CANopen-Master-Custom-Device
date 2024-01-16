@@ -108,7 +108,6 @@
 			<Item Name="UI_Defer Front Panel Updates.vi" Type="VI" URL="../SubVIs/VS Favorites/UI_Defer Front Panel Updates.vi"/>
 		</Item>
 		<Item Name="CANopen add SDO from EDS.vi" Type="VI" URL="../SubVIs/CANopen add SDO from EDS.vi"/>
-		<Item Name="CANopen Byte Order.ctl" Type="VI" URL="../SubVIs/CANopen Byte Order.ctl"/>
 		<Item Name="CANOpen Change ID.vi" Type="VI" URL="../SubVIs/CANOpen Change ID.vi"/>
 		<Item Name="CANOpen Change PDO Channel.vi" Type="VI" URL="../SubVIs/CANOpen Change PDO Channel.vi"/>
 		<Item Name="CANopen Edit SDO ESD enum.ctl" Type="VI" URL="../SubVIs/CANopen Edit SDO ESD enum.ctl"/>
@@ -132,7 +131,6 @@
 		<Item Name="CANOpen_Get PDO Name from Channel.vi" Type="VI" URL="../SubVIs/CANOpen_Get PDO Name from Channel.vi"/>
 		<Item Name="CANOpen_NMT Create Status Channels.vi" Type="VI" URL="../SubVIs/CANOpen_NMT Create Status Channels.vi"/>
 		<Item Name="CANOpen_PDO Type.ctl" Type="VI" URL="../SubVIs/CANOpen_PDO Type.ctl"/>
-		<Item Name="CANOpen_Scan Device List.vi" Type="VI" URL="../SubVIs/CANOpen_Scan Device List.vi"/>
 		<Item Name="CANOpen_SDO data format.ctl" Type="VI" URL="../SubVIs/CANOpen_SDO data format.ctl"/>
 		<Item Name="CANOpen_SDO Dynamic -Create Channels.vi" Type="VI" URL="../SubVIs/CANOpen_SDO Dynamic -Create Channels.vi"/>
 		<Item Name="Export.ctl" Type="VI" URL="../SubVIs/Export.ctl"/>

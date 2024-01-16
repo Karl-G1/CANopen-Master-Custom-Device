@@ -4,6 +4,8 @@ Jiri-8133 = "10.118.8.211"
 [Jiri-cRIO9024]
 Jiri-cRIO9024 = "10.118.8.208"
 
-[My Computer]
-My Computer = "10.118.8.33"
+[Linux x64]
+Linux x64 = "0.0.0.0"
 
+[My Computer]
+My Computer = "192.168.10.200"
