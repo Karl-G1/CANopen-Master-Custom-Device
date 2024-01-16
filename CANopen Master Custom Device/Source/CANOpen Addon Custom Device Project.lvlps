@@ -33,6 +33,14 @@ Cache_Path[Path] Line0002 = "8AB-EE57-4545-B9C8-DF1FB4F3DFE4}.txt"
 Cache_Path[Path] Line0001 = "/C/Users/Aliaro/AppData/Local/Temp/AB_Cache_{31F9D"
 Cache_Path[Path] Line0002 = "5A7-B810-431A-A0DB-5DD38B967FEA}.txt"
 
+[AB_Cache_{255FEEEE-5E87-4A39-B671-B216D1854670}]
+Cache_Path[Path] Line0001 = "/C/Users/Aliaro/AppData/Local/Temp/AB_Cache_{255FE"
+Cache_Path[Path] Line0002 = "EEE-5E87-4A39-B671-B216D1854670}.txt"
+
+[AB_Cache_{6CFFF459-D936-46D0-B81A-2A3B6205F2AF}]
+Cache_Path[Path] Line0001 = "/C/Users/Aliaro/AppData/Local/Temp/AB_Cache_{6CFFF"
+Cache_Path[Path] Line0002 = "459-D936-46D0-B81A-2A3B6205F2AF}.txt"
+
 [AB_Cache_{40D264A1-4C54-4163-83D0-3FAFFDD0292A}]
 Cache_Path[Path] Line0001 = "/C/Users/Aliaro/AppData/Local/Temp/AB_Cache_{40D26"
 Cache_Path[Path] Line0002 = "4A1-4C54-4163-83D0-3FAFFDD0292A}.txt"

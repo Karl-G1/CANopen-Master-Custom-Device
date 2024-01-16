@@ -21,4 +21,5 @@
 	<Item Name="CANOpen_SDO queue W data.ctl" Type="VI" URL="../CANOpen_SDO queue W data.ctl"/>
 	<Item Name="CANOpen_SDO Settings.ctl" Type="VI" URL="../CANOpen_SDO Settings.ctl"/>
 	<Item Name="CANOpen_SetGet PDO Parameter Settings.vi" Type="VI" URL="../CANOpen_SetGet PDO Parameter Settings.vi"/>
+	<Item Name="SDO Parameters Array.ctl" Type="VI" URL="../SDO Parameters Array.ctl"/>
 </Library>

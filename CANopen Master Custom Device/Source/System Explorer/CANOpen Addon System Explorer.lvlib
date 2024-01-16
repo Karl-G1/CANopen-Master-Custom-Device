@@ -37,6 +37,12 @@
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Item Name="EDS" Type="Folder">
+			<Item Name="application" Type="Folder">
+				<Item Name="Build Command Line Arguments.vi" Type="VI" URL="../SubVIs/EDS/application/Build Command Line Arguments.vi"/>
+				<Item Name="Build Installed Folder Paths.vi" Type="VI" URL="../SubVIs/EDS/application/Build Installed Folder Paths.vi"/>
+				<Item Name="Call EDS Read.vi" Type="VI" URL="../SubVIs/EDS/Call EDS Read.vi"/>
+				<Item Name="EDS Read Application.vi" Type="VI" URL="../SubVIs/EDS/EDS Read Application.vi"/>
+			</Item>
 			<Item Name="control" Type="Folder">
 				<Item Name="Access Type.ctl" Type="VI" URL="../SubVIs/EDS/control/Access Type.ctl"/>
 				<Item Name="Data Type.ctl" Type="VI" URL="../SubVIs/EDS/control/Data Type.ctl"/>
